@@ -21,4 +21,4 @@ This project is a Python-based GUI application that scrapes book data from books
    pip install requests beautifulsoup4
 
 2. Run:
-   python task4_gui.py
+   python task4.py
